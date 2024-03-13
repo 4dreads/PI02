@@ -23,6 +23,10 @@ Dashboard_Accidentes.pbix: Archivo de Power BI con dashboards interactivos para 
 
 ![metricas](https://github.com/4dreads/PI02/assets/127443613/d703f9bc-f630-432d-b4d4-f48d22dbdf8b)
 
+![metricas 2](https://github.com/4dreads/PI02/assets/127443613/083de5c4-e86e-4cca-a1c0-7bcc9bbf9f56)
+
+![mwtricas 3](https://github.com/4dreads/PI02/assets/127443613/d91b0576-0aca-4798-b26e-d8d9ff1e1c80)
+
 
 # Reporte de Análisis
 El análisis de los datos revela varios puntos importantes:
